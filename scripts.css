@@ -1,0 +1,70 @@
+body {
+    width: 900px;
+    margin: auto;
+    padding: 0 20px;
+    padding-top: 80px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    text-align: center;
+    padding: 5px;
+}
+
+.sub1{
+    font-weight: bold;
+    color: blue;
+}
+
+.sub2 {
+    font-weight: bold;
+    color: orange;
+}
+
+.sub3 {
+    font-weight: bold;
+    color: rgb(230, 23, 230);
+}
+
+.sub4 {
+    font-weight: bold;
+    color: green;
+}
+
+.sub5 {
+    font-weight: bold;
+    color: red;
+}
+
+.swa {
+    font-weight: bold;
+    color: red;
+}
+
+.black {
+    font-weight: bold;
+    color: black;
+}
+
+.lunch {
+    margin-left: auto;
+    margin-right: auto;
+    word-wrap: break-word;
+    width:11px;
+}
